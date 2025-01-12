@@ -1,0 +1,38 @@
+h1{
+    color: black;
+    text-align:center;
+}
+
+nav ul{
+    list-style-type: none;
+
+}
+
+nav {
+    text-align: center;
+    background-color: #2F4F4F;
+    border-radius:10px;
+    border: 8px solid  #D2691E;
+    
+}
+nav ul li a {
+    color:#FFD700;
+    font-size: 20px;
+
+}
+body{
+    background-color:#F4A300;
+    font-family: "Gabriela", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: #FF7F50; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}

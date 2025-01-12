@@ -1,0 +1,51 @@
+h1{
+color: #D64C19;
+text-align: center;
+margin-bottom: auto;
+}
+
+body{
+    background-color: #e7b491 ;
+}
+
+p{
+  color: #6B4226;
+  font-size:20px;
+  font-weight: bold;
+  padding-left: 10px;
+  text-align: center;
+ 
+}
+
+h3{
+color: #D64C19;
+padding-left: 10px;
+}
+
+nav ul {
+    color:#b34a24;
+    font-size:20px;
+    
+    
+}
+
+
+nav ol{
+    color:#b34a24;
+    font-size:20px;
+}
+
+figure{
+        display: flex;
+        justify-content: center; 
+        align-items: center;     
+        height: 100vh; 
+}
+button{
+padding: 10px 20px;
+background-color: #FF7F50; 
+color: white;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-size: 16px;}
