@@ -63,3 +63,15 @@ img{
     border-radius: 10px;
     margin-bottom: 20px;
 }
+
+.option {
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    list-style: none;
+    border-radius: 5px;
+  }
